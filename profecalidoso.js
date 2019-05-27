@@ -13,5 +13,10 @@ function draw(){
     ellipse(222,222,222,222); 
 }
 
+function a(){
+
+    asdasdas
+}
+
 
 asdasdasd
