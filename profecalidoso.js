@@ -8,6 +8,10 @@ function otraGolfa(){
     return asdfdgfhgjhdsadfg
 }
 
+
+function draw(){
+    ellipse(222,222,222,222); 
+}
+
+
 asdasdasd
-asdasd
-asdas
