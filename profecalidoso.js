@@ -7,3 +7,7 @@ function golfa(yo){
 function otraGolfa(){
     return asdfdgfhgjhdsadfg
 }
+
+asdasdasd
+asdasd
+asdas
